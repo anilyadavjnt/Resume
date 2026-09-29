@@ -46,7 +46,10 @@ I am an iOS Developer specializing in building production-ready iOS applications
 
 ---
 
-**Open to iOS Developer opportunities.**
+💼 Open to iOS Developer Opportunities
+I am currently looking for iOS Developer opportunities where I can contribute my experience in Swift, UIKit, API integration, Firebase, MVVM, and production iOS application development.
+Open to Remote and On-site opportunities.
+⭐ If you are a recruiter or hiring manager looking for an iOS Developer, please feel free to connect with me on LinkedIn.
 
 
 
