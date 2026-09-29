@@ -1,53 +1,60 @@
-# Anil Kumar Yadav — iOS Developer
+# Hi, I'm Anil Kumar Yadav 👋
 
-**iOS Developer | 2+ Years Experience | Swift | UIKit | REST APIs | Firebase | MVVM**
+### iOS Developer | Swift | UIKit | REST APIs | Firebase | MVVM
 
-📍 India
-💼 Open to iOS Developer opportunities
-🔗 [LinkedIn](https://linkedin.com/in/anilyadavjnt)
-💻 [GitHub](https://github.com/anilyadavjnt)
-🌐 Portfolio: https://portfolio-anilyadavjnt.vercel.app
-
----
-
-## 👨‍💻 About Me
-
-I am an **iOS Developer with 2+ years of experience** building and maintaining production-ready iOS applications using **Swift, UIKit, REST APIs, Firebase, and MVVM architecture**.
+I’m an **iOS Developer with 2+ years of experience** building production-ready iOS applications using **Swift, UIKit, REST APIs, Firebase, and MVVM architecture**.
 
 I have worked on applications across **OTT streaming, healthcare, fitness, e-commerce, and property listing** domains.
 
-I am currently looking for an **iOS Developer / Junior iOS Developer opportunity** where I can contribute to production applications and continue growing my mobile development skills.
+I’m currently **open to iOS Developer opportunities** and looking for a role where I can contribute to real-world products while continuing to grow as an iOS developer.
+
+---
+
+## 🚀 About Me
+
+* 👨‍💻 iOS Developer with **2+ years of experience**
+* 📱 Focused on **Swift & UIKit development**
+* 🏗️ Experience with **MVC, MVVM & Clean Architecture**
+* 🔌 Experience in **REST API integration & JSON/Codable**
+* 🔥 Experience with **Firebase**
+* 💾 Experience with **Core Data**
+* 💳 Worked with **Razorpay & Stripe**
+* 🗺️ Experience with **Google Maps SDK**
+* 📦 Experience with **Storyboard, XIB & Auto Layout**
+* 🚀 Experience with **App Store deployment**
+* 🔍 Currently looking for **iOS Developer / Junior iOS Developer opportunities**
 
 ---
 
 ## 🛠️ Technical Skills
 
-* Swift
-* UIKit
-* Objective-C
-* Storyboard & XIB
-* Auto Layout
-* UITableView & UICollectionView
-* REST API Integration
-* JSON / Codable
-* URLSession
-* Firebase
-* Firebase Authentication
-* Firebase Analytics
-* Firebase Crashlytics
-* Core Data
-* MVC / MVVM
-* Clean Architecture
-* Dependency Injection
-* SOLID Principles
-* Protocol-Oriented Programming
-* Git & GitHub
-* Postman
-* CocoaPods
-* Razorpay
-* Stripe
-* Google Maps SDK
-* App Store Deployment
+### iOS Development
+
+`Swift` `UIKit` `Objective-C` `Storyboard` `XIB` `Auto Layout`
+
+### UI & Components
+
+`UITableView` `UICollectionView` `Custom UI` `Reusable Components`
+
+### Networking
+
+`REST APIs` `URLSession` `Alamofire` `JSON` `Codable` `Postman`
+
+### Architecture
+
+`MVC` `MVVM` `Clean Architecture` `Dependency Injection` `SOLID`
+
+### Database & Backend
+
+`Firebase` `Core Data` `Firebase Authentication` `Crashlytics` `Analytics`
+
+### Payments & SDKs
+
+`Razorpay` `Stripe` `Google Maps SDK`
+
+### Tools
+
+`Xcode` `Git` `GitHub` `CocoaPods` `App Store Connect`
 
 ---
 
@@ -55,58 +62,89 @@ I am currently looking for an **iOS Developer / Junior iOS Developer opportunity
 
 ### 🎬 Black Bird — OTT Streaming App
 
-**Technology:** Swift, UIKit, Storyboard, XIB, REST API, Firebase, MVVM
+A production OTT streaming application built using Swift and UIKit.
 
-* OTT application for Movies, Web Series, TV Shows and Audiobooks
-* Implemented API integration and pagination
-* Added category, genre, language and order-type filtering
-* Implemented watchlist functionality
-* Integrated video player and casting functionality
-* Implemented subscription and payment-related flows
-* Worked with Firebase services and third-party SDKs
+**Tech Stack:** Swift, UIKit, Storyboard, XIB, REST API, Firebase, MVVM
 
-**App Store:** 6745434988
+**Key Features:**
+
+* Movies, Web Series, TV Shows & Audiobooks
+* REST API integration
+* Pagination
+* Language & Genre filters
+* Watchlist
+* Video player
+* Casting
+* Subscription flows
+* Firebase integration
+* App Store deployment
 
 ---
 
 ### 🏥 MasMedi — Healthcare E-Commerce App
 
-**Technology:** Swift, UIKit, REST APIs, Firebase
+Healthcare and e-commerce iOS application.
 
-* Healthcare and medicine e-commerce application
-* Implemented product listing and product details
-* Integrated REST APIs
-* Implemented cart and checkout flows
-* Worked on reusable UIKit components
+**Tech Stack:** Swift, UIKit, REST APIs, Firebase
 
-**App Store:** 1608793042
+**Key Features:**
+
+* Product listing
+* Product details
+* API integration
+* Cart functionality
+* Checkout flow
+* Reusable UIKit components
 
 ---
 
 ### 🏠 DallalApp — Property Listing App
 
-**Technology:** Swift, UIKit, REST API, Google Maps
+Property listing and discovery iOS application.
 
-* Property listing and discovery application
-* Implemented property listing and details
-* Integrated API-based data
-* Worked with location and map-related functionality
+**Tech Stack:** Swift, UIKit, REST APIs, Google Maps
+
+**Key Features:**
+
+* Property listings
+* Property details
+* REST API integration
+* Location-based functionality
+* Google Maps integration
 
 ---
 
 ### 📇 Contact App Manager
 
-**Technology:** Swift, UIKit, Core Data
+Contact management iOS application.
 
-* Contact management iOS application
-* Implemented contact-related functionality
-* Used local data persistence
+**Tech Stack:** Swift, UIKit, Core Data
 
-**App Store:** 1554821249
+**Key Features:**
+
+* Contact management
+* Local data persistence
+* UIKit-based interface
 
 ---
 
-## 💼 Experience
+## 📂 Other Projects
+
+* 🎵 YTMusicClone
+* 🎟️ MovieTicketBooking
+* 💬 ChatAppSwift
+* 🍔 FoodDeliveryApp
+* 📱 FoodSwiftUI
+* 📷 QRScanner
+* ⏱️ Stopwatch iOS App
+* 🎮 TicTacToe
+* 📹 VideoDownloadApp
+* 🎯 SkillSpark
+* 🃏 DestinationSwipeCards
+
+---
+
+## 💼 Professional Experience
 
 ### iOS Developer — Hands In Technology
 
@@ -117,42 +155,42 @@ I am currently looking for an **iOS Developer / Junior iOS Developer opportunity
 * Integrated REST APIs and JSON data
 * Worked with Firebase services
 * Implemented payment integrations
-* Worked with Google Maps SDK
+* Integrated Google Maps SDK
 * Fixed bugs and improved application stability
-* Prepared applications for App Store releases
-
----
-
-## 🎯 Currently Looking For
-
-**iOS Developer | Junior iOS Developer | Mobile Application Developer**
-
-Interested in:
-
-* Remote opportunities
-* India-based opportunities
-* Product companies
-* Startups
-* Full-time iOS development roles
+* Worked on App Store release and deployment
 
 ---
 
 ## 📄 Resume
 
-📥 **[Download My Resume](./Anil_Kumar_Yadav_iOS_Developer_Resume.pdf)**
-
-If you are hiring for an **iOS Developer** role, feel free to connect with me on LinkedIn.
+### 👉 [View / Download My Resume](./iOS-Developer-Resume/Anil_Kumar_Yadav_iOS_Developer_Resume.pdf)
 
 ---
 
-## 📬 Contact
+## 🤝 Open to Opportunities
 
-**LinkedIn:** linkedin.com/in/anilyadavjnt
-**GitHub:** github.com/anilyadavjnt
-**Portfolio:** portfolio-anilyadavjnt.vercel.app
+I am currently looking for:
 
-**Available for iOS Developer opportunities.**
+**iOS Developer | Junior iOS Developer | Mobile Developer**
 
+📍 Open to opportunities across India
+🏠 Open to Remote opportunities
+💼 Available for full-time opportunities
 
-📥 [Anil_Resume.pdf](https://github.com/user-attachments/files/32792878/Anil_Resume.pdf)
+If you are a recruiter or hiring manager looking for an iOS Developer, feel free to connect with me.
 
+---
+
+## 🔗 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/anilyadavjnt](https://linkedin.com/in/anilyadavjnt)
+
+💻 **GitHub:** [github.com/anilyadavjnt](https://github.com/anilyadavjnt)
+
+🌐 **Portfolio:** [portfolio-anilyadavjnt.vercel.app](https://portfolio-anilyadavjnt.vercel.app)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, consider giving them a ⭐ on GitHub.
