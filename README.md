@@ -128,22 +128,6 @@ Contact management iOS application.
 
 ---
 
-## 📂 Other Projects
-
-* 🎵 YTMusicClone
-* 🎟️ MovieTicketBooking
-* 💬 ChatAppSwift
-* 🍔 FoodDeliveryApp
-* 📱 FoodSwiftUI
-* 📷 QRScanner
-* ⏱️ Stopwatch iOS App
-* 🎮 TicTacToe
-* 📹 VideoDownloadApp
-* 🎯 SkillSpark
-* 🃏 DestinationSwipeCards
-
----
-
 ## 💼 Professional Experience
 
 ### iOS Developer — Hands In Technology
