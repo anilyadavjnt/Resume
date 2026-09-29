@@ -42,7 +42,7 @@ I am an iOS Developer specializing in building production-ready iOS applications
 
 ## 📄 Resume
 
-📥 [Download My Resume](./Anil_Kumar_Yadav_iOS_Developer_Resume.pdf)
+📥 [Anil_Resume.pdf](https://github.com/user-attachments/files/32792878/Anil_Resume.pdf)
 
 ---
 
@@ -50,5 +50,5 @@ I am an iOS Developer specializing in building production-ready iOS applications
 
 
 
-[Anil_Resume.pdf](https://github.com/user-attachments/files/32792878/Anil_Resume.pdf)
+
 
