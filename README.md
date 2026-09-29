@@ -163,7 +163,11 @@ Contact management iOS application.
 
 ## 📄 Resume
 
-### 👉 [View / Download My Resume](./iOS-Developer-Resume/Anil_Kumar_Yadav_iOS_Developer_Resume.pdf)
+### 👉 [Anil_Resume.pdf](https://github.com/user-attachments/files/32793664/Anil_Resume.pdf)
+
+<img width="588" height="827" alt="Screenshot 2026-09-29 at 1 55 00 PM" src="https://github.com/user-attachments/assets/e52e9479-d7ff-4711-96b2-c1f3b596d84e" />
+
+<img width="591" height="834" alt="Screenshot 2026-09-29 at 1 54 46 PM" src="https://github.com/user-attachments/assets/7dbdc487-225f-4fb2-bb20-cbea7397e1ea" />
 
 ---
 
