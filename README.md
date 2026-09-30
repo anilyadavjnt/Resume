@@ -50,7 +50,7 @@ I’m currently **open to iOS Developer opportunities** and looking for a role w
 
 ### Payments & SDKs
 
-`Razorpay` `Stripe` `Google Maps SDK`
+`Razorpay` `Google Maps SDK`
 
 ### Tools
 
