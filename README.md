@@ -2,7 +2,7 @@
 
 ### iOS Developer | Swift | UIKit | REST APIs | Firebase | MVVM
 
-I’m an **iOS Developer with 2+ years of experience** building production-ready iOS applications using **Swift, UIKit, REST APIs, Firebase, and MVVM architecture**.
+I’m an **iOS Developer with 3+ years of experience** building production-ready iOS applications using **Swift, UIKit, REST APIs, Firebase, and MVVM architecture**.
 
 I have worked on applications across **OTT streaming, healthcare, fitness, e-commerce, and property listing** domains.
 
