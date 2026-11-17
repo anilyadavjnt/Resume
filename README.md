@@ -12,7 +12,7 @@ I’m currently **open to iOS Developer opportunities** and looking for a role w
 
 ## 🚀 About Me
 
-* 👨‍💻 iOS Developer with **2+ years of experience**
+* 👨‍💻 iOS Developer with **3+ years of experience**
 * 📱 Focused on **Swift & UIKit development**
 * 🏗️ Experience with **MVC, MVVM & Clean Architecture**
 * 🔌 Experience in **REST API integration & JSON/Codable**
