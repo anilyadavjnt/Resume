@@ -30,7 +30,7 @@ I’m currently **open to iOS Developer opportunities** and looking for a role w
 
 ### iOS Development
 
-`Swift` `UIKit` `Objective-C` `Storyboard` `XIB` `Auto Layout`
+`Swift` `UIKit` `SwiftUI` `Objective-C` `Storyboard` `XIB` `Auto Layout`
 
 ### UI & Components
 
