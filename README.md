@@ -1,6 +1,6 @@
 # Hi, I'm Anil Kumar Yadav 👋
 
-### iOS Developer | Swift | UIKit | REST APIs | Firebase | MVVM
+### iOS Developer | Swift | UIKit | SwiftUI | REST APIs | Firebase | MVVM
 
 I’m an **iOS Developer with 3+ years of experience** building production-ready iOS applications using **Swift, UIKit, SwiftUI, REST APIs, Firebase, and MVVM architecture**.
 
