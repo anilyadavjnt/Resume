@@ -150,9 +150,9 @@ Contact management iOS application.
 
 ### 👉 [Anil(iOS+ 3+ years).pdf](https://github.com/user-attachments/files/34976198/Anil.iOS%2B.3%2B.years.pdf)
 
-<img width="500" height="650" alt="Screenshot 2026-11-19 at 4 04 39 PM" src="https://github.com/user-attachments/assets/9c0ab5af-cf40-411f-9d82-c38a479a8176" />
+<img width="500" height="700" alt="Screenshot 2026-11-19 at 4 04 39 PM" src="https://github.com/user-attachments/assets/9c0ab5af-cf40-411f-9d82-c38a479a8176" />
 
-<img width="500" height="650" alt="Screenshot 2026-11-19 at 4 04 58 PM" src="https://github.com/user-attachments/assets/02bc969e-7097-4fc6-acc9-8b48ffe69a31" />
+<img width="500" height="700" alt="Screenshot 2026-11-19 at 4 04 58 PM" src="https://github.com/user-attachments/assets/02bc969e-7097-4fc6-acc9-8b48ffe69a31" />
 
 ---
 
