@@ -154,7 +154,6 @@ Contact management iOS application.
 
 <img width="531" height="751" alt="Screenshot 2026-11-19 at 4 04 58 PM" src="https://github.com/user-attachments/assets/02bc969e-7097-4fc6-acc9-8b48ffe69a31" />
 
-
 ---
 
 ## 🤝 Open to Opportunities
